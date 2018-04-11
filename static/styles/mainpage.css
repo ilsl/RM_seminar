@@ -1,0 +1,10 @@
+body {
+    background-image: url({{ url_for('static', filename='images/RMlorry.jpg') }})
+}
+title {
+    color: red;
+}
+h1 {
+    color:red;
+}
+
